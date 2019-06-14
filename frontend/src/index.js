@@ -8,7 +8,7 @@ import theme from './theme';
 import * as serviceWorker from './serviceWorker';
 import './index.css';
 
-const ApiURL = "https://protected-basin-45806.herokuapp.com/"
+const ApiURL = "http://localhost:8080/"
 
 configureAxios();
 ReactDOM.render(
