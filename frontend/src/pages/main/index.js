@@ -20,6 +20,8 @@ const styles = theme => ({
   },
   github: {
     position: 'absolute',
+    pointerEvents: 'auto !important',
+    cursor: 'pointer !important',
     right: 15,
     top: 10
   }
